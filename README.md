@@ -1,2 +1,2 @@
 # moovweb
-Moovweb Demo
+Moovweb Basic Demo for Mobile Site
